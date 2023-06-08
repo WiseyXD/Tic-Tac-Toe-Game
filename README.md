@@ -41,10 +41,6 @@ To run the game locally or make modifications, follow these steps:
 
 Contributions are welcome! If you find any issues or want to add new features, feel free to open a pull request.
 
-## License
-
-The Tic Tac Toe game is open source and released under the [MIT License](LICENSE). Feel free to use and modify the code as per your requirements.
-
 ## Acknowledgments
 
 - The Tic Tac Toe game was developed as a learning project.
